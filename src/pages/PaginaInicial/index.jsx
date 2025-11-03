@@ -45,7 +45,7 @@ const PaginaInicial = () => {
         <FundoBarra $JustifyContent="flex-start">
           <FundoImgeTextos>
             <ImgeTexto>
-              <LogoPormade src={Logo} alt="logo" />
+              <LogoPormade src={Logo} alt="loggo" />
               <TituloContainer>
                 <PormadeAgenda>Pormade</PormadeAgenda>
                 <PormadeAgenda $fontWeight="400">Agenda</PormadeAgenda>
