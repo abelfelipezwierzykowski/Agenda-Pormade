@@ -34,7 +34,7 @@ export default function Botao({ onClick, children, redirectTo }) {
 
   return (
     <BotaoEnviar onClick={handleClick}>
-      {children || "Enviar"}
+      {children || "Enviggggar"}
     </BotaoEnviar>
   );
 }
